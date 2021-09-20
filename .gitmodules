@@ -7,9 +7,6 @@
 [submodule "dataModel.Weather"]
 	path = dataModel.Weather
 	url = https://github.com/smart-data-models/dataModel.Weather.git
-[submodule "dataModel.FrictionlessData"]
-	path = dataModel.FrictionlessData
-	url = https://github.com/smart-data-models/dataModel.FrictionlessData
 [submodule "dataModel.Environment"]
 	path = dataModel.Environment
 	url = https://github.com/smart-data-models/dataModel.Environment.git
