@@ -10,3 +10,6 @@
 [submodule "dataModel.WasteManagement"]
 	path = dataModel.WasteManagement
 	url = https://github.com/smart-data-models/dataModel.WasteManagement.git
+[submodule "dataModel.WaterQuality"]
+	path = dataModel.WaterQuality
+	url = https://github.com/smart-data-models/dataModel.WaterQuality.git
