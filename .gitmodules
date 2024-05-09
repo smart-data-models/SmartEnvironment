@@ -13,3 +13,6 @@
 [submodule "dataModels.SDG"]
 	path = dataModels.SDG
 	url = https://github.com/smart-data-models/dataModels.SDG.git
+[submodule "dataModel.Environment"]
+	path = dataModel.Environment
+	url = https://github.com/smart-data-models/dataModel.Environment.git
