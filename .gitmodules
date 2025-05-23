@@ -16,3 +16,6 @@
 [submodule "dataModels.SDG"]
 	path = dataModels.SDG
 	url = https://github.com/smart-data-models/dataModels.SDG.git
+[submodule "dataModel.CarbonFootprint"]
+	path = dataModel.CarbonFootprint
+	url = https://github.com/rfranquelo/dataModel.CarbonFootprint.git
